@@ -3,9 +3,9 @@
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Desenvolvimento Web Java no <a href="https://www.proa.org.br/proprofissao/">Instituto PROA</a>.
+- 🎓 &nbsp; Cursando Desenvolvimento Web Java no <a href="https://www.proa.org.br/proprofissao/">Instituto PROA</a>.
 - 💼 &nbsp; Buscando oportunidades como Front-End Júnior.
-- 🌱 &nbsp; Atualmento estudando Javascript e ReactJS.
+- 🌱 &nbsp; Me aprofundando em Javascript e ReactJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -41,6 +41,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Gabriel Cardoso Silva](https://img.shields.io/badge/Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-cardososilva/)
+[![Linkedin: Gabriel Cardoso Silva](https://img.shields.io/badge/Gabriel_Cardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-cardososilva/)
 [![Gmail Badge](https://img.shields.io/badge/-k2gabriel2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k2gabriel2@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub devGabrielCardoso]( https://img.shields.io/github/followers/devGabrielCardoso?label=follow&style=social)](https://github.com/devGabrielCardoso)
